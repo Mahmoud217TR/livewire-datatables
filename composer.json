@@ -1,12 +1,12 @@
 {
-    "name": "mediconesystems/livewire-datatables",
+    "name": "mahmoud217tr/livewire-datatables",
     "description": "Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS",
     "keywords": [
         "php",
         "laravel",
         "livewire"
     ],
-    "homepage": "https://github.com/mediconesystems/livewire-datatables",
+    "homepage": "https://github.com/mahmoud217tr/livewire-datatables",
     "license": "MIT",
     "type": "library",
     "authors": [
